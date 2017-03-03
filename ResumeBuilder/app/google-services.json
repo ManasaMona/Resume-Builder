@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "859595700104",
+    "project_id": "firebase-resume-builder"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859595700104:android:23b19382f0829ee6",
+        "android_client_info": {
+          "package_name": "com.example.manasaa.resumebuilder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859595700104-cremluof1u6kfmamhkik3b281uhma9qm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manasaa.resumebuilder",
+            "certificate_hash": "2196ecb9fc76c8254407eddacfa3f40dd130cd8f"
+          }
+        },
+        {
+          "client_id": "859595700104-9jetl6epej464bfqoe0pff4f5vh6rj3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrIARknrC0jsdX-0fyeTYJucXHwABMcyI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
